@@ -2,7 +2,7 @@
 
 day001-work-1
 
-	@南非波波
+		@南非波波
 
 功能实现：登录接口
 
@@ -24,7 +24,12 @@ day001-work-1
 	3.主函数入口：
 		if __name__ == '__main__':
 代码地址：
-	
+
+	https://github.com/swht/projects/tree/master/day01/work-1
+
+博客地址：
+
+	http://www.cnblogs.com/songqingbo/p/5091808.html
 
 测试账号：
 
