@@ -31,6 +31,10 @@ day001-work-1
 
 	http://www.cnblogs.com/songqingbo/p/5091808.html
 
+使用方法：
+	
+	python3 login.py
+
 测试账号：
 
 	users：qingbo

@@ -31,6 +31,10 @@ day001-work-2
 
 	https://github.com/swht/projects/tree/master/day01/work-2
 
+使用方法：
+
+	python3 main.py
+
 博客地址：
 
 	http://www.cnblogs.com/songqingbo/p/5091830.html
