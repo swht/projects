@@ -52,7 +52,7 @@ def AddUsersList(Users):
 					return True  #返回True值说明用户名匹配成功
 			UsersListFile.close()
 	else:  #文件不存在
-		return False  #返回False值说明黑名单文件不存在或为空
+		return False  #返回False值说明用户列表文件不存在或为空
 
 #判断用户是否存在userlist列表中
 def LoginUsersList(Users,Passwd):
@@ -69,5 +69,5 @@ def LoginUsersList(Users,Passwd):
 						return True  #返回True值说明用户名和密码匹配成功
 			UsersListFile.close()
 	else:  #文件不存在
-		return False  #返回False值说明黑名单文件不存在
+		return False  #返回False值说明用户列表文件不存在
 
