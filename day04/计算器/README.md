@@ -30,7 +30,7 @@ day004-计算器
 
 代码地址：
 
-	https://github.com/swht/projects/tree/master/day04/change_haproxy
+	https://github.com/swht/projects/tree/master/day04/计算器
 
 使用方法：
 
@@ -38,4 +38,4 @@ day004-计算器
 
 博客地址：
 
-	http://www.cnblogs.com/songqingbo/p/5149909.html
+	http://www.cnblogs.com/songqingbo/p/5168125.html
